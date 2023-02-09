@@ -1,0 +1,1 @@
+"Objective: to determine if the given unsigned integer is a palindrome without dynamically allocating memory.
